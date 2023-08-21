@@ -1,0 +1,44 @@
+﻿@model IEnumerable<WebStoreMadz.Models.Brand>
+@{
+    ViewData["Title"] = "ViewBrand";
+    Layout = "~/Views/Shared/_DashboardLayout.cshtml";
+}
+
+
+
+<div class="col-md-12 col-xl-4">
+    <h5>Edit Brand</h5>
+    <hr>
+    <div class="card">
+        <h5 class="card-header">Brand</h5>
+        <div class="card-body">
+
+            <form asp-controller="Brand" asp-action="AddBrand" method="post">
+                <div class="card-body">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Brand Name</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        @foreach (var item in Model)
+                        {
+                            <tbody>
+                                <tr>
+                                    <td>@item.BId</td>
+                                    <td>@item.BName</td>
+                                    <td>
+                                        <a href="" class="btn btn-success">Edit</a>
+                                        <a href="" class="btn btn-danger">Delete</a>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        }
+                    </table>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

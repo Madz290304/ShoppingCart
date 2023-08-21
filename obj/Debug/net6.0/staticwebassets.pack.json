@@ -1,0 +1,1025 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebStoreMadz.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebStoreMadz.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\css\\layout-dark.css",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\css\\layout-dark.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\css\\layout-rtl.css",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\css\\layout-rtl.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\css\\plugins\\animate.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\css\\plugins\\animate.min.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\css\\plugins\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\css\\plugins\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\css\\plugins\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\css\\plugins\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\css\\plugins\\prism-coy.css",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\css\\plugins\\prism-coy.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\feather.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\feather.eot"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\feather.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\feather.svg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\feather.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\feather.ttf"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\feather.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\feather.woff"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOUehpOqc.woff2",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOUehpOqc.woff2"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOVuhpOqc.woff2",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOVuhpOqc.woff2"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOX-hpOqc.woff2",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOX-hpOqc.woff2"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXOhpOqc.woff2",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXOhpOqc.woff2"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXehpOqc.woff2",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXehpOqc.woff2"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXuhpOqc.woff2",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\opensans\\mem5YaGs126MiZpBA-UNirkOXuhpOqc.woff2"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFUZ0bbck.woff2",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFUZ0bbck.woff2"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFVZ0b.woff2",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFVZ0b.woff2"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFVp0bbck.woff2",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFVp0bbck.woff2"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFW50bbck.woff2",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFW50bbck.woff2"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWJ0bbck.woff2",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWJ0bbck.woff2"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWZ0bbck.woff2",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWZ0bbck.woff2"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWp0bbck.woff2",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\opensans\\mem8YaGs126MiZpBA-UFWp0bbck.woff2"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\pct.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\pct.eot"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\pct.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\pct.svg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\pct.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\pct.ttf"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\fonts\\pct.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\pct.woff"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\auth\\auth-logo-dark.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\auth\\auth-logo-dark.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\auth\\auth-logo.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\auth\\auth-logo.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\auth\\img-auth-big.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\auth\\img-auth-big.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\browser\\chrome.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\browser\\chrome.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\browser\\firefox.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\browser\\firefox.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\browser\\ie.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\browser\\ie.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\browser\\opera.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\browser\\opera.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\browser\\safari.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\browser\\safari.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\cd-arrow.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\cd-arrow.svg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\close.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\close.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\complete.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\complete.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\gallery-grid\\img-grd-gal-1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\gallery-grid\\img-grd-gal-1.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\gallery-grid\\img-grd-gal-2.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\gallery-grid\\img-grd-gal-2.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\gallery-grid\\img-grd-gal-3.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\gallery-grid\\img-grd-gal-3.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\gallery-grid\\img-grd-gal-4.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\gallery-grid\\img-grd-gal-4.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\gallery-grid\\img-grd-gal-5.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\gallery-grid\\img-grd-gal-5.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\gallery-grid\\img-grd-gal-6.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\gallery-grid\\img-grd-gal-6.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\gallery-grid\\masonry-1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\gallery-grid\\masonry-1.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\gallery-grid\\masonry-2.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\gallery-grid\\masonry-2.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\gallery-grid\\masonry-3.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\gallery-grid\\masonry-3.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\gallery-grid\\masonry-4.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\gallery-grid\\masonry-4.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\gallery-grid\\masonry-5.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\gallery-grid\\masonry-5.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\gallery-grid\\masonry-6.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\gallery-grid\\masonry-6.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\gallery-grid\\masonry-7.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\gallery-grid\\masonry-7.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\gallery-grid\\masonry-8.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\gallery-grid\\masonry-8.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\hover-effect\\triangle.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\hover-effect\\triangle.svg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\hover-effect\\triangle2.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\hover-effect\\triangle2.svg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\light-box\\l1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\light-box\\l1.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\light-box\\l2.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\light-box\\l2.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\light-box\\l3.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\light-box\\l3.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\light-box\\l4.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\light-box\\l4.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\light-box\\l5.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\light-box\\l5.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\light-box\\l6.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\light-box\\l6.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\light-box\\mixin.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\light-box\\mixin.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\light-box\\sl1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\light-box\\sl1.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\light-box\\sl2.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\light-box\\sl2.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\light-box\\sl3.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\light-box\\sl3.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\light-box\\sl4.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\light-box\\sl4.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\light-box\\sl5.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\light-box\\sl5.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\light-box\\sl6.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\light-box\\sl6.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\light-box\\smixin.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\light-box\\smixin.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\light-box\\v1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\light-box\\v1.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\light-box\\v2.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\light-box\\v2.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\light-box\\v3.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\light-box\\v3.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\light-box\\v4.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\light-box\\v4.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\loading.gif"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\logo-dark.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\logo-dark.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\logo-docs.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\logo-docs.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\logo-old.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\logo-old.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\logo-thumb.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\logo-thumb.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\maintance\\404.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\maintance\\404.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\maintance\\maintance.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\maintance\\maintance.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\maintance\\sark.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\maintance\\sark.svg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\maintance\\ship.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\maintance\\ship.svg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\maintance\\sparcle-1.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\maintance\\sparcle-1.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\maintance\\sparcle-2.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\maintance\\sparcle-2.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\next.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\next.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\prev.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\prev.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\product\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\product\\prod-1.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\profile\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\profile\\bg-1.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\profile\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\profile\\bg-2.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\profile\\bg-3.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\profile\\bg-3.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\profile\\bg-4.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\profile\\bg-4.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\profile\\cover.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\profile\\cover.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\slider\\img-slide-1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\slider\\img-slide-1.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\slider\\img-slide-2.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\slider\\img-slide-2.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\slider\\img-slide-3.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\slider\\img-slide-3.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\slider\\img-slide-4.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\slider\\img-slide-4.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\slider\\img-slide-5.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\slider\\img-slide-5.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\slider\\img-slide-6.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\slider\\img-slide-6.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\slider\\img-slide-7.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\slider\\img-slide-7.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\ticket\\p1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\ticket\\p1.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\ticket\\p2.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\ticket\\p2.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\ticket\\p3.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\ticket\\p3.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\ticket\\p4.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\ticket\\p4.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\ticket\\p5.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\ticket\\p5.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\user\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\user\\avatar-1.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\user\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\user\\avatar-2.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\user\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\user\\avatar-3.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\user\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\user\\avatar-4.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\user\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\user\\avatar-5.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\user\\cover.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\user\\cover.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\user\\img-avatar-1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\user\\img-avatar-1.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\user\\img-avatar-2.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\user\\img-avatar-2.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\user\\img-avatar-3.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\user\\img-avatar-3.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\AUSTRALIA.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\AUSTRALIA.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\BRAZIL.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\BRAZIL.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\GERMANY.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\GERMANY.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\PHONE1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\PHONE1.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\PHONE2.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\PHONE2.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\PHONE3.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\PHONE3.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\PHONE4.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\PHONE4.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\UK.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\UK.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\USA.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\USA.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\blur-bg.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\blur-bg.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\dashborad-1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\dashborad-1.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\dashborad-2.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\dashborad-2.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\dashborad-3.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\dashborad-3.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\dashborad-4.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\dashborad-4.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\dashborad-5.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\dashborad-5.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\emoticon.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\emoticon.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\img-round1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\img-round1.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\p1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\p1.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\p2.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\p2.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\p3.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\p3.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\p4.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\p4.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\profile-person1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\profile-person1.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\slider5.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\slider5.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\slider6.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\slider6.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\slider7.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\slider7.jpg"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\user-blur-bg.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\user-blur-bg.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\wather2bottom.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\wather2bottom.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\watherbottom.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\watherbottom.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\wathernature.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\wathernature.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\watherstar1.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\watherstar1.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\images\\widget\\watherstar2.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\images\\widget\\watherstar2.png"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\js\\JqueryFile.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\JqueryFile.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\js\\analytics.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\analytics.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\js\\analytics.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\analytics.min.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\js\\horizontal-menu.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\horizontal-menu.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\js\\pages\\chart-apex.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\pages\\chart-apex.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\js\\pages\\dashboard-main.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\pages\\dashboard-main.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\js\\pages\\google-maps.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\pages\\google-maps.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\js\\pcoded.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\pcoded.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\js\\pcoded.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\pcoded.min.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\js\\plugins\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\plugins\\apexcharts.min.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\js\\plugins\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\plugins\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\js\\plugins\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\plugins\\gmaps.min.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\js\\plugins\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\plugins\\jquery-ui.min.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\js\\plugins\\prism.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\plugins\\prism.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\js\\uikit.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\uikit.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\js\\uikit.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\uikit.min.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\js\\vendor-all.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\vendor-all.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\js\\vendor-all.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\vendor-all.min.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\json\\2500.txt",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\json\\2500.txt"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\json\\cities.json",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\json\\cities.json"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\json\\citynames.json",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\json\\citynames.json"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\Dashboard\\assets\\json\\file-upload.php",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\json\\file-upload.php"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\NetCoreProject\\WebStoreMadz\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebStoreMadz.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebStoreMadz.props",
+      "PackagePath": "build\\WebStoreMadz.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebStoreMadz.props",
+      "PackagePath": "buildMultiTargeting\\WebStoreMadz.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebStoreMadz.props",
+      "PackagePath": "buildTransitive\\WebStoreMadz.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

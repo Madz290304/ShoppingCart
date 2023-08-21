@@ -1,0 +1,43 @@
+﻿@model IEnumerable<WebStoreMadz.Models.Category>
+@{
+    ViewData["Title"] = "ViewCategory";
+    Layout = "~/Views/Shared/_DashboardLayout.cshtml";
+}
+
+
+<div class="col-md-12 col-xl-4">
+    <h5>Edit Category</h5>
+    <hr>
+    <div class="card">
+        <h5 class="card-header">Category</h5>
+        <div class="card-body">
+
+            <form asp-controller="Category" asp-action="AddCategory" method="post">
+                <div class="card-body">
+                    <table class="table" id="myTable">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Category Name</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        @foreach(var item in Model)
+                        {
+                            <tbody>
+                                <tr>
+                                    <td>@item.CId</td>
+                                    <td>@item.CName</td>
+                                    <td>
+                                        <a href="" class="btn btn-success">Edit</a>
+                                        <a href="" class="btn btn-danger">Delete</a>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        }
+                    </table>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,33 @@
+﻿@model WebStoreMadz.Models.Category
+@{
+    ViewData["Title"] = "AddCategory";
+    Layout = "~/Views/Shared/_DashboardLayout.cshtml";
+}
+
+
+<div class="col-md-12 col-xl-4">
+    <h5>Add New Category</h5>
+	<hr>
+	<div class="card">
+        <h5 class="card-header">Category</h5>
+		<div class="card-body">
+			
+            <form asp-controller="Category" asp-action="AddCategory" method="post">
+                    <div class="card-body">
+                        <div class="input-group mb-3">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text" id="basic-addon1">Category Name</span>
+                            </div>
+                        <input type="text" class="form-control" placeholder="Write Category name here" asp-for="CName">
+                        </div>
+               
+                        <input type="submit" class="btn  btn-primary" value="Save">
+                    </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+	

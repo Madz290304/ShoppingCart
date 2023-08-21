@@ -1,0 +1,33 @@
+﻿@model WebStoreMadz.Models.Brand
+@{
+    ViewData["Title"] = "AddBrand";
+    Layout = "~/Views/Shared/_DashboardLayout.cshtml";
+}
+
+
+<div class="col-md-12 col-xl-4">
+    <h5>Add New Brand</h5>
+    <hr>
+    <div class="card">
+        <h5 class="card-header">Brand</h5>
+        <div class="card-body">
+
+            <form asp-controller="Brand" asp-action="AddBrand" method="post">
+                <div class="card-body">
+                    <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text" id="basic-addon1">Brand Name</span>
+                        </div>
+                        <input type="text" class="form-control" placeholder="Write Brand name here" asp-for="BName">
+                    </div>
+
+                    <input type="submit" class="btn  btn-primary" value="Save">
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+
